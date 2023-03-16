@@ -7,3 +7,7 @@ Colocando em pratica os modulos:
 - GIT
 - Modelagem 
 - SQL
+
+## Modelagem
+
+https://drive.google.com/file/d/1LDEPwwQdJA6gsacz4Psi44BZqT40BLA9/view?usp=sharing
